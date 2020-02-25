@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860cd1a8-5188-413b-80eb-4237f814c978" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Java_fitst_step/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_fitst_step/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Computer$Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Computer$Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Computer$RAM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Computer$RAM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_android_progeket/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,12 +98,22 @@
       <workItem from="1581519502462" duration="3711000" />
       <workItem from="1582030304625" duration="4350000" />
       <workItem from="1582036701548" duration="2080000" />
-      <workItem from="1582558514816" duration="1617000" />
+      <workItem from="1582558514816" duration="3574000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
